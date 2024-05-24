@@ -59,7 +59,7 @@ Calculates the information gain ratio of each attribute with respect to the targ
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/information-gain.git
+   git clone https://github.com/kyso1/EntropyCalculus.git
    cd information-gain
    ```
 
@@ -85,7 +85,7 @@ Calculates the information gain ratio of each attribute with respect to the targ
 
 3. Run the script to see the results:
    ```bash
-   python your_script.py
+   python entropy.py
    ```
 
 ## Examples
